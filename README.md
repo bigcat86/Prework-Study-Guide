@@ -22,7 +22,7 @@ To use this website follow these instructions:
 - Navigate to website in Google Chrome browser
 - To see what topic to study randomly, open DevTools by pressing command+option+i (macOS) or control+shift+i (Windows)
 - Console page will open and viewer can see what subject is recomended to study
-- Seen here: ![Screenshot Console](assets/study guide console.png)
+- Seen here: ![Screenshot Console](assets/study_guide_console.png)
 
 ## Credits
 
