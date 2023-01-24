@@ -14,7 +14,7 @@ In order to use the website as intended one must first install Google Chrome Dev
 
 - Navigate to DevTools installation in google chrome.
 - Use this link [Chrome Dev](https://www.google.com/chrome/dev/)
-- pen folder and follow installation instructions
+- Open folder and follow installation instructions
 
 ## Usage
 
